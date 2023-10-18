@@ -3,18 +3,18 @@
 
 <p align="left"> <a href="https://twitter.com/kashyap07shiven" target="blank"><img src="https://img.shields.io/twitter/follow/kashyap07shiven?logo=twitter&style=for-the-badge" alt="kashyap07shiven" /></a> </p>
 
-- 💬 Ask me about **react, tailwind etc**
+![Linked-in Banner (3)](https://github.com/shiven24k/shiven24k/assets/65511405/36f6fd74-7614-43c9-9ca1-1bd8d5833327)
 
-- 📫 How to reach me **kashyapshiven2002@gmail.com**
+I am a React/Tailwind developer with experience in building responsive, user-friendly, and high-performance web applications 📱. I am also proficient in other front-end technologies such as HTML, CSS, JavaScript, and CSS preprocessors 🎨.
+I am passionate about building products that users love 😍. I am also a strong believer in the importance of continuous learning and improvement 📚.
+ 📫 Drop a mail:- **kashyapshiven2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qQKanW7G0-xlxw4s0sC6-mbRZsb15tbI/view?usp=share_link](https://drive.google.com/file/d/1qQKanW7G0-xlxw4s0sC6-mbRZsb15tbI/view?usp=share_link)
-
-- ⚡ Fun fact **I am addicted to things I like**
+ 📄 My Resume:- [https://drive.google.com/file/d/1qQKanW7G0-xlxw4s0sC6-mbRZsb15tbI/view?usp=share_link](https://drive.google.com/file/d/1qQKanW7G0-xlxw4s0sC6-mbRZsb15tbI/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kashyap07shiven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashyap07shiven" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shiven kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiven kashyap" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shiven-kashyap-964819220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiven kashyap" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
