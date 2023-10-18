@@ -7,6 +7,7 @@
 
 I am a React/Tailwind developer with experience in building responsive, user-friendly, and high-performance web applications 📱. I am also proficient in other front-end technologies such as HTML, CSS, JavaScript, and CSS preprocessors 🎨.
 I am passionate about building products that users love 😍. I am also a strong believer in the importance of continuous learning and improvement 📚.
+
  📫 Drop a mail:- **kashyapshiven2002@gmail.com**
 
  📄 My Resume:- [https://drive.google.com/file/d/1qQKanW7G0-xlxw4s0sC6-mbRZsb15tbI/view?usp=share_link](https://drive.google.com/file/d/1qQKanW7G0-xlxw4s0sC6-mbRZsb15tbI/view?usp=share_link)
