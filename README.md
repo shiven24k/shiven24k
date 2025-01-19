@@ -2,7 +2,7 @@
 
 ![Linked-in Banner (3)](https://github.com/shiven24k/shiven24k/assets/65511405/36f6fd74-7614-43c9-9ca1-1bd8d5833327)
 
-I am a React/Tailwind developer with experience in building responsive, user-friendly, and high-performance web applications 📱. I am also proficient in other front-end technologies such as HTML, CSS, JavaScript, and CSS preprocessors 🎨.
+I am a web developer with experience in building responsive, user-friendly, and high-performance web applications 📱. I am also proficient in other front-end technologies such as HTML, CSS, JavaScript, and CSS preprocessors 🎨.
 I am passionate about building products that users love 😍. I am also a strong believer in the importance of continuous learning and improvement 📚.
 
  📫 Drop a mail:- **kashyapshiven2002@gmail.com**
