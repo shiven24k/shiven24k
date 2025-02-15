@@ -7,7 +7,6 @@ I am passionate about building products that users love 😍. I am also a strong
 
  📫 Drop a mail:- **kashyapshiven2002@gmail.com**
 
- 📄 My Resume:- [https://drive.google.com/file/d/1qQKanW7G0-xlxw4s0sC6-mbRZsb15tbI/view?usp=share_link](https://drive.google.com/file/d/1qQKanW7G0-xlxw4s0sC6-mbRZsb15tbI/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
