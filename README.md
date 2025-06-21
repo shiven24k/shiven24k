@@ -1,7 +1,7 @@
 <p align="left"> <a href="https://twitter.com/kashyap07shiven" target="blank"><img src="https://img.shields.io/twitter/follow/kashyap07shiven?logo=twitter&style=for-the-badge" alt="kashyap07shiven" /></a> </p>
 
 
-**➡️ View the live portfolio here: [https://tangerine-jqac.vercel.app/]
+View the live portfolio: [https://tangerine-jqac.vercel.app/]
 
 
 I am a web developer with experience in building responsive, user-friendly, and high-performance web applications 📱. I am also proficient in other front-end technologies such as HTML, CSS, JavaScript, and CSS preprocessors 🎨.
