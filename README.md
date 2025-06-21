@@ -1,6 +1,6 @@
 <p align="left"> <a href="https://twitter.com/kashyap07shiven" target="blank"><img src="https://img.shields.io/twitter/follow/kashyap07shiven?logo=twitter&style=for-the-badge" alt="kashyap07shiven" /></a> </p>
 
-![image](https://github.com/user-attachments/assets/5ec0c1f6-2b70-44f0-a977-eab2d30fa2e5)
+
 **➡️ View the live portfolio here: [https://tangerine-jqac.vercel.app/]
 
 
